@@ -1,7 +1,7 @@
 <script lang="ts">
-    import { doc } from 'firebase/firestore';
-    import { db } from '$lib/firebase';
-    const ref = doc(db, `/collection/doc`);
+    // import { doc } from 'firebase/firestore';
+    // import { db } from '$lib/firebase';
+    // const ref = doc(db, `/collection/doc`);
 </script>
 
 <h1>Welcome to SvelteKit</h1>
